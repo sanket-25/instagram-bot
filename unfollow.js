@@ -2,7 +2,7 @@
     let i = 0;
     let count = 0;
     const unfollowInterval = setInterval(() => {
-        if (count >= 20) {
+        if (count >= 200) {
             clearInterval(unfollowInterval);
             return;
         }
@@ -19,6 +19,6 @@
             list[i].click();
         }
         i++;
-    }, 4500);
+    }, 100);
     console.log("intervalID => ",unfollowInterval);
 })();

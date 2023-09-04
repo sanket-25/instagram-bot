@@ -1,4 +1,7 @@
 # instagram-bot
+
+So, this simple code works on the idea that you follow some number of users, later when they follow you back , unfollow them and all other. At the end of the day you land up with more followers than previous.
+
 Javascript Code basically to Follow and Unfollow upto 200 users in a single click (200 because exceeding this causes insta to temporarily disable your account).
 
 That's how I gained upto 2k Insta Followers ⚡
